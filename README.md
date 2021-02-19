@@ -14,3 +14,7 @@ Extract existing HTML tables from a URL and save them as csv or excel files on o
 `$ attract_html_table.py -u https://example.com -f excel` <br> <br>
 - Screen printing
 `$ attract_html_table.py -u https://example.com -p print` <br> <br>
+<br>
+
+## Language:
+- [TÜRKÇE](https://github.com/vedatonal38/pulling-a-table-from-the-website/blob/main/README_TR.md "TÜRKÇE")
